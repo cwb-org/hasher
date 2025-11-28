@@ -1,0 +1,4 @@
+pyinstaller
+tqdm
+typer
+rich
